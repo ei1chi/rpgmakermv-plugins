@@ -1,3 +1,6 @@
+# Type Declaration (will be removed)
+src/decl/
+
 # Logs
 logs
 *.log

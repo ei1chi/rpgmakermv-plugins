@@ -1,0 +1,24 @@
+{
+  "name": "rpgmakermv-plugins",
+  "version": "1.0.0",
+  "description": "Extensions for RPG Maker MV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ei1chi/rpgmakermv-plugins.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ei1chi/rpgmakermv-plugins/issues"
+  },
+  "homepage": "https://github.com/ei1chi/rpgmakermv-plugins#readme",
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.3",
+    "typescript-formatter": "^7.2.2"
+  }
+}
